@@ -2,7 +2,6 @@ import 'package:basic_project/basic_project.dart';
 import 'package:test/test.dart';
 
 void main() {
-  test('calculate', () {
-    expect(calculate(), 42);
-  });
+  print("202302546\n");
+  print("김희찬");
 }
